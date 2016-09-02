@@ -13,7 +13,7 @@
     display: inline-block;
      box-shadow: 1px 1px 3px #999999;}
 .main {
-    background:url(b3.jpg);
+    background:url(188.jpg);
     margin:0 auto;
     width: 100%;
     height: 800px;
@@ -43,10 +43,7 @@ margin: 0 auto;
     height:800px;
     font:solid white;
 }
-.contact{width:1350px;
-    height:800px;
-    background:url()no-repeat;
-}
+
 
 h1{color:#fffafa;
   font-size:24px;

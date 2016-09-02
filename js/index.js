@@ -1,7 +1,7 @@
 .header {position:fixed;
          height:150px;
          width:100%;
-         background:url(header.jpg);
+         background:url(header2.jpg);
          opacity: 0.8;
          margin:0 auto;    
          left: 0;
@@ -56,7 +56,7 @@ h1{color:#fffafa;
 .textabout{text-align:center;
     vertical-align: middle;
     color:white;
-    font-size:36px;
+    font-size:24px;
     font-family: Arial serif;
 }
 
